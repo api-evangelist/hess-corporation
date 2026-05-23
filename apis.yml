@@ -1,0 +1,55 @@
+aid: hess-corporation
+name: Hess Corporation
+description: >-
+  Hess Corporation was an independent global energy company engaged in the
+  exploration, development, production, transportation, purchase, and sale of
+  crude oil, natural gas liquids, and natural gas. Its core operations centered
+  on onshore unconventional production in the Bakken Shale of North Dakota and
+  a major offshore position in the Stabroek Block in Guyana, with additional
+  interests in the Gulf of Mexico, Canada, and Southeast Asia. Chevron
+  Corporation completed its $53 billion all-stock acquisition of Hess on
+  July 18, 2025, after a regulatory and arbitration delay that included a
+  Federal Trade Commission consent order barring former CEO John B. Hess from
+  serving on Chevron's board and a parallel ExxonMobil/CNOOC arbitration over
+  Guyana right-of-first-refusal claims. Hess is now a wholly-owned subsidiary
+  of Chevron, and the ONE GUYANA FPSO at Stabroek has come online to produce
+  approximately 250,000 barrels of oil per day. Hess Corporation has never
+  offered public developer APIs; its technology integrations were handled
+  through enterprise partner systems and joint-venture operator portals.
+type: Index
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Bakken
+  - Crude Oil
+  - Deepwater
+  - Energy
+  - Exploration And Production
+  - Guyana
+  - Natural Gas
+  - Oil And Gas
+  - Stabroek Block
+  - Upstream
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/hess-corporation/refs/heads/main/apis.yml
+created: '2026-05-22'
+modified: '2026-05-22'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.hess.com
+  - type: Parent Company
+    url: https://www.chevron.com
+  - type: AcquisitionAnnouncement
+    url: https://www.chevron.com/newsroom/2025/q3/chevron-completes-acquisition-of-hess-corporation-creating-a-premier-energy-company
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hess-corporation
+  - type: Newsroom
+    url: https://www.hess.com/newsroom
+  - type: Investors
+    url: https://www.hess.com/investors
+  - type: Sustainability
+    url: https://www.hess.com/sustainability
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
