@@ -1,5 +1,5 @@
 aid: hess-corporation
-name: Hess Corporation
+name: Hess
 description: >-
   Hess Corporation was an independent global energy company engaged in the
   exploration, development, production, transportation, purchase, and sale of
@@ -90,3 +90,10 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-legal-name: Hess Corporation
+x-status: acquired
+x-acquired-by: chevron
+x-parent: chevron
+x-acquired-date: '2025-07'
+x-status-source: "https://www.hess.com/"
+x-status-evidence: "hess.com carries the banner 'The Chevron-Hess merger is now complete' (fetched 2026-10-03; roadmap#812)"
